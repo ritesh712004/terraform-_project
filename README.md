@@ -39,14 +39,3 @@ This project demonstrates how to **automate cloud infrastructure** and manage Ku
 - IAM Roles & Policies  
 
 ---
-
-## 📂 Repository Structure
-
-```text
-.
-├── main.tf          # Main Terraform configuration
-├── variables.tf     # Input variables
-├── outputs.tf       # Output values
-├── provider.tf      # AWS provider configuration
-├── terraform.tfvars # Variable values
-└── README.md
